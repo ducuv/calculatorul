@@ -1,0 +1,14 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "package_json",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
