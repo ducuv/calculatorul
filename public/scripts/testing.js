@@ -7,3 +7,10 @@ function sum(a,b){
 	document.getElementById('sum').value = sum;
 	return sum;
 }
+
+function numbers(x)
+{
+		document.getElementById('result').value = x;
+	
+	return x;
+}
